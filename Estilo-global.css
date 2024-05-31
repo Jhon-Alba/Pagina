@@ -7,13 +7,6 @@ header{
   top: 0;
   left: 0;
 }
-.container{
-  display: flex;
-  flex-wrap: wrap;
-}
-footer{
-  width: 100%;
-}
 
 /* Fondo de la pagina */
 body {
